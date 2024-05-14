@@ -3,9 +3,9 @@
 
 - 🎓 I'm studying Computer Programming & Analysis **at Seneca Polytechnic**
 
-- 📝 I regularly write notes on [https://github.com/b5h22/dev-notes.git](https://github.com/b5h22/dev-notes.git)
-
 - 🌱 I’m currently learning **Full Stack Web Tech, OOP(C++), Database(Oracle, MongoDB)**
+
+- 📝 I regularly write notes on [https://github.com/b5h22/dev-notes.git](https://github.com/b5h22/dev-notes.git)
 
 - 📫 How to reach me **byoo3@myseneca.ca**
 
