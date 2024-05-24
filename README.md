@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Full Stack Web Tech, OOP(C++), Database(Oracle, MongoDB)**
 
-- 📝 I regularly write notes on [https://github.com/b5h22/dev-notes.git](https://github.com/b5h22/dev-notes.git)
+- 📝 I regularly write notes on [b5h22.github.io/dev-notes/](https://b5h22.github.io/dev-notes/)
 
 - 📫 How to reach me **byoo3@myseneca.ca**
 
