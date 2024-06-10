@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Bohee Yoo</h1>
-<h3 align="center">Future Software Developer | Learning and growing one day at a time</h3>
+<h3 align="center">Software Developer Student | Learning and growing one day at a time</h3>
 
 - 🎓 I'm studying Computer Programming & Analysis **at Seneca Polytechnic**
 
