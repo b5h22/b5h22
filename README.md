@@ -3,7 +3,7 @@
 
 - 🎓 I'm studying Computer Programming & Analysis **at Seneca Polytechnic**
 
-- 🌱 I’m currently learning **Full Stack Web Tech, OOP(C++), Database(Oracle, MongoDB)**
+- 🌱 I’m currently learning **Full Stack Web Tech, OOP(C++), Database(Oracle, MongoDB, PostgreSQL)**
 
 - 📝 I regularly write notes on [b5h22.github.io/dev-notes/](https://b5h22.github.io/dev-notes/)
 
